@@ -27,7 +27,7 @@
 
   1. Clone the repository:
   
-    git clone https://github.com/Samnasamna/ADS-project1.git
+    git clone https://github.com/Punithap917/Customer-Segmentation1.git
 
    2.Installing libraries
 
